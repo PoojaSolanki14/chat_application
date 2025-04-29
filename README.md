@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1c88946e-bd31-4054-9b2b-f946810b6127)
+
 ```markdown
 # Talkzy - Real-Time Chat Application
 
