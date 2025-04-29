@@ -64,7 +64,7 @@ git clone https://github.com/<your-username>/<your-repo-name>.git
 2. Navigate into the project directory:
 
 ```bash
-cd cablenetworkTV
+cd chat_application
 ```
 
 3. Install dependencies:
