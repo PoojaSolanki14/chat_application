@@ -96,7 +96,7 @@ flutter run
 - Invite Friends Feature  
 - Settings (Dark Mode Toggle)
 
-(*Screenshots can be added if available*)
+
 
 ---
 
