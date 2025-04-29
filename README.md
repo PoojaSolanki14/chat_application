@@ -125,17 +125,3 @@ Dr. V. R. Godhaniya College of Information Technology
 
 This project is licensed for academic purposes.
 
----
-```
-
----
-
-# ✅ Now what you can do:
-- Copy this content.
-- Create a new file in your GitHub repo called **`README.md`**.
-- Paste it there — it will automatically show beautifully on your GitHub project homepage!
-
----
-
-Would you also like me to give you a **shorter version** (only important points) for README if you want something very clean and minimal? 🚀  
-(You can choose detailed or short depending on your style.)
